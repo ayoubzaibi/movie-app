@@ -1,23 +1,26 @@
 export const Movies = [
     {
         id : Math.random(),
-        name : 'inception',
-        image : 'https://m.media-amazon.com/images/M/MV5BMjExMjkwNTQ0Nl5BMl5BanBnXkFtZTcwNTY0OTk1Mw@@._V1_.jpg',
-        rating : 2,
-        year : '2005'
-    },
-    {
-        id : Math.random(),
-        name : 'Harry Potter',
-        image : 'https://fr.web.img2.acsta.net/pictures/18/07/02/17/25/3643090.jpg',
+        name : 'fast and furious',
+        image : 'https://image.jeuxvideo.com/medias/159618/1596181954-6384-jaquette-avant.jpg',
         rating : 5,
-        year : '2013'
+        year : '2022',
+        description:"aksdfbhpkafpoizdjvljafpihùl"
     },
     {
         id : Math.random(),
-        name : 'Fantastic Beasts',
-        image : 'https://m.media-amazon.com/images/I/81xndous2xL._SL1500_.jpg',
-        rating : 3,
-        year : '2016'
+        name : 'peaky blinders',
+        image : 'https://fr.web.img3.acsta.net/pictures/22/06/07/11/57/5231272.jpg',
+        rating : 4,
+        year : '2022',
+        description:"aksdfbhpkafpoizdjvljafpihùl"
+    },
+    {
+        id : Math.random(),
+        name : 'doctor strange',
+        image : 'https://fr.web.img5.acsta.net/pictures/22/04/08/10/30/1779137.jpg',
+        rating : 4,
+        year : '2021',
+        description:"aksdfbhpkafpoizdjvljafpihùl"
     }
 ];
